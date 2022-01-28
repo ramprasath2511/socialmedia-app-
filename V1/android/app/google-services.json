@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372236386539",
+    "project_id": "pixalive-fa208",
+    "storage_bucket": "pixalive-fa208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372236386539:android:8a683261b1ebb078aa3eae",
+        "android_client_info": {
+          "package_name": "com.thenone.heyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372236386539-dmt5b7v5cdmqcijv8bbat5s3qkbgmtuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9LrFGO7ckXSOTCQ4rS-MzJYDtIgZlfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372236386539-dmt5b7v5cdmqcijv8bbat5s3qkbgmtuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
